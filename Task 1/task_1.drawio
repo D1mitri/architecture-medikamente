@@ -1,0 +1,82 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="29.2.9">
+  <diagram id="CyExRMq4QGSxZq7ALHrE" name="Страница-3">
+    <mxGraphModel dx="1566" dy="926" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Q5y6-apIToYlgi3OKQf4-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Журнал приёма пациентов" vertex="1">
+          <mxGeometry height="60" width="330" x="295" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="Q5y6-apIToYlgi3OKQf4-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Сотрудник ресепшена (Администратор)" vertex="1">
+          <mxGeometry height="30" width="60" x="310" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="Q5y6-apIToYlgi3OKQf4-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Специалист-медик" vertex="1">
+          <mxGeometry height="30" width="60" x="430" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="Q5y6-apIToYlgi3OKQf4-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Пациент" vertex="1">
+          <mxGeometry height="30" width="60" x="550" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="Q5y6-apIToYlgi3OKQf4-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="Потоки данных:&lt;div&gt;Пациент -&amp;gt; Администратор: передача персональных данных (ФИО, дата рождения, телефон, электронная почта)&amp;nbsp;&lt;/div&gt;&lt;div&gt;Администратор -&amp;gt; Журнал:&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;регистрация в системе пациента, запись пациента к специалисту&lt;/span&gt;&lt;/div&gt;&lt;div&gt;Медик -&amp;gt; Журнал: просмотр и редактирование данных&lt;/div&gt;&lt;div&gt;Администратор -&amp;gt; Пациент: заключение контракта&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="335" x="295" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="Q5y6-apIToYlgi3OKQf4-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Контрольно-кассовая машина (ККМ)" vertex="1">
+          <mxGeometry height="60" width="330" x="295" y="670" as="geometry" />
+        </mxCell>
+        <mxCell id="Q5y6-apIToYlgi3OKQf4-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Пациент" vertex="1">
+          <mxGeometry height="30" width="60" x="310" y="770" as="geometry" />
+        </mxCell>
+        <mxCell id="Q5y6-apIToYlgi3OKQf4-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Кассир" vertex="1">
+          <mxGeometry height="30" width="60" x="430" y="770" as="geometry" />
+        </mxCell>
+        <mxCell id="Q5y6-apIToYlgi3OKQf4-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="Потоки данных:&lt;div&gt;Пациент -&amp;gt; Кассир: оплата за медицинские услуги&lt;/div&gt;&lt;div&gt;Кассир -&amp;gt; Система: принятие оплаты&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="375" x="295" y="800" as="geometry" />
+        </mxCell>
+        <mxCell id="Q5y6-apIToYlgi3OKQf4-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Бухгалтерская система учета" vertex="1">
+          <mxGeometry height="60" width="330" x="810" y="670" as="geometry" />
+        </mxCell>
+        <mxCell id="Q5y6-apIToYlgi3OKQf4-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Бухгалтер" vertex="1">
+          <mxGeometry height="30" width="60" x="810" y="770" as="geometry" />
+        </mxCell>
+        <mxCell id="Q5y6-apIToYlgi3OKQf4-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="Потоки данных:&lt;br&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;ККМ&lt;/span&gt;&amp;nbsp;-&amp;gt; Система: информация о принятии денежных средств&lt;/div&gt;&lt;div&gt;Бухгалтер -&amp;gt; Система: процессинг платежей и ведение бухгалтерии (учёт кадров, выплата зарплат и налоги)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="375" x="810" y="800" as="geometry" />
+        </mxCell>
+        <mxCell id="Q5y6-apIToYlgi3OKQf4-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="ККМ" vertex="1">
+          <mxGeometry height="30" width="60" x="910" y="770" as="geometry" />
+        </mxCell>
+        <mxCell id="Q5y6-apIToYlgi3OKQf4-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Складская система учета" vertex="1">
+          <mxGeometry height="60" width="330" x="1324" y="670" as="geometry" />
+        </mxCell>
+        <mxCell id="Q5y6-apIToYlgi3OKQf4-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Сотрудник склада" vertex="1">
+          <mxGeometry height="30" width="60" x="1324" y="770" as="geometry" />
+        </mxCell>
+        <mxCell id="Q5y6-apIToYlgi3OKQf4-17" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="Потоки данных:&lt;div&gt;Сотрудник склада -&amp;gt; Система: учет товарно-материальных ценностей (ТМЦ)&lt;/div&gt;&lt;div&gt;Сотрудник склада -&amp;gt; Бухгалтерия: закупка оборудования для медицинских кабинетов&lt;/div&gt;" vertex="1">
+          <mxGeometry height="75" width="356" x="1324" y="830" as="geometry" />
+        </mxCell>
+        <mxCell id="Q5y6-apIToYlgi3OKQf4-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Бухгалтерия" vertex="1">
+          <mxGeometry height="30" width="60" x="1440" y="770" as="geometry" />
+        </mxCell>
+        <mxCell id="Q5y6-apIToYlgi3OKQf4-19" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Почтовый сервис внутренней почты" vertex="1">
+          <mxGeometry height="60" width="330" x="810" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="Q5y6-apIToYlgi3OKQf4-20" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Администратор сети" vertex="1">
+          <mxGeometry height="30" width="60" x="820" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="Q5y6-apIToYlgi3OKQf4-21" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="Потоки данных:&lt;div&gt;Администратор сети -&amp;gt; Система: поддержка работы сервера&lt;/div&gt;&lt;div&gt;Сотрудник компании -&amp;gt; Система: отправка и просмотр почты&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="400" x="800" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="Q5y6-apIToYlgi3OKQf4-22" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Сотрудник компании Медикаменте" vertex="1">
+          <mxGeometry height="30" width="60" x="949" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="Q5y6-apIToYlgi3OKQf4-23" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Медицинская лаборатория" vertex="1">
+          <mxGeometry height="60" width="330" x="1300" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="Q5y6-apIToYlgi3OKQf4-24" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Сотрудник компании Медикаменте" vertex="1">
+          <mxGeometry height="30" width="60" x="1310" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="Q5y6-apIToYlgi3OKQf4-25" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="Потоки данных:&lt;div&gt;Сотрудник компании -&amp;gt; Система: взаимодействие с реестром анализов&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="340" x="1310" y="430" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
