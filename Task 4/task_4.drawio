@@ -1,0 +1,139 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="29.2.9">
+  <diagram name="Страница-1" id="-98oqDHMeerP9g9ukgHk">
+    <mxGraphModel dx="1845" dy="602" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="4s5JjnG8Ov2VsSTBZEsU-18" parent="1" style="triangle;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="100" width="90" x="730" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="4s5JjnG8Ov2VsSTBZEsU-1" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="120" y="280" as="sourcePoint" />
+            <mxPoint x="730" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4s5JjnG8Ov2VsSTBZEsU-2" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="190" y="110" as="sourcePoint" />
+            <mxPoint x="350" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4s5JjnG8Ov2VsSTBZEsU-3" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="470" y="110" as="sourcePoint" />
+            <mxPoint x="630" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4s5JjnG8Ov2VsSTBZEsU-4" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="190" y="450" as="sourcePoint" />
+            <mxPoint x="350" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4s5JjnG8Ov2VsSTBZEsU-5" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="470" y="450" as="sourcePoint" />
+            <mxPoint x="630" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4s5JjnG8Ov2VsSTBZEsU-6" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="120" y="180" as="sourcePoint" />
+            <mxPoint x="240" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4s5JjnG8Ov2VsSTBZEsU-7" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="120" y="380" as="sourcePoint" />
+            <mxPoint x="240" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4s5JjnG8Ov2VsSTBZEsU-8" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="400" y="380" as="sourcePoint" />
+            <mxPoint x="520" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4s5JjnG8Ov2VsSTBZEsU-9" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="360" y="160" as="sourcePoint" />
+            <mxPoint x="480" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4s5JjnG8Ov2VsSTBZEsU-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Люди" vertex="1">
+          <mxGeometry height="30" width="60" x="210" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="4s5JjnG8Ov2VsSTBZEsU-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Технологии" vertex="1">
+          <mxGeometry height="30" width="60" x="480" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="4s5JjnG8Ov2VsSTBZEsU-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Интеграция" vertex="1">
+          <mxGeometry height="30" width="60" x="210" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="4s5JjnG8Ov2VsSTBZEsU-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Процессы" vertex="1">
+          <mxGeometry height="30" width="60" x="490" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="4s5JjnG8Ov2VsSTBZEsU-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Следствие" vertex="1">
+          <mxGeometry height="30" width="60" x="740" y="265" as="geometry" />
+        </mxCell>
+        <mxCell id="4s5JjnG8Ov2VsSTBZEsU-16" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="80" y="320" as="sourcePoint" />
+            <mxPoint x="120" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4s5JjnG8Ov2VsSTBZEsU-17" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="80" y="240" as="sourcePoint" />
+            <mxPoint x="120" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4s5JjnG8Ov2VsSTBZEsU-19" parent="1" style="text;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Возможность третьим лицам выполнять действия и получать данные внешним пользователям, которые они не должны иметь возможности получить" vertex="1">
+          <mxGeometry height="30" width="216" x="-10" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="4s5JjnG8Ov2VsSTBZEsU-20" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Необходимость повторной&lt;div&gt;валидации данных для новых интеграций&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="170" x="110" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="4s5JjnG8Ov2VsSTBZEsU-21" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Ошибки при тегировании данных, которые необходимо защищать" vertex="1">
+          <mxGeometry height="30" width="170" x="360" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="4s5JjnG8Ov2VsSTBZEsU-22" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Отсутствие оповещений при&lt;div&gt;несанкционированном доступе к данным&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="170" x="300" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="4s5JjnG8Ov2VsSTBZEsU-24" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Ошибки при удалении&lt;div&gt;чувствительных данных&lt;/div&gt;&lt;div&gt;клиента&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="170" x="329" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="4s5JjnG8Ov2VsSTBZEsU-25" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Необходимость дополнительных&lt;div&gt;доработок при внесении изменений в конфигурацию системы&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="224" x="370" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="4s5JjnG8Ov2VsSTBZEsU-26" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="420" y="217" as="sourcePoint" />
+            <mxPoint x="540" y="217" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4s5JjnG8Ov2VsSTBZEsU-27" parent="1" style="text;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Нехватка квалификации команды в работе с выбранным стеком технологий." vertex="1">
+          <mxGeometry height="30" width="170" x="100" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="4s5JjnG8Ov2VsSTBZEsU-28" parent="1" style="text;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Недостаточное покрытие нагрузочным тестированием или некорректная балансировка нагрузки." vertex="1">
+          <mxGeometry height="30" width="199" x="370" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="4s5JjnG8Ov2VsSTBZEsU-29" parent="1" style="text;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Узкие места в сетевых соединениях" vertex="1">
+          <mxGeometry height="30" width="130" x="320" y="75" as="geometry" />
+        </mxCell>
+        <mxCell id="4s5JjnG8Ov2VsSTBZEsU-30" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="320" y="110" as="sourcePoint" />
+            <mxPoint x="440" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4s5JjnG8Ov2VsSTBZEsU-31" parent="1" style="text;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Увеличение времени работы&#xa;после перехода в новую &#xa;систему в связи с необходимостью&#xa;обучения." vertex="1">
+          <mxGeometry height="30" width="213" x="-10" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="4s5JjnG8Ov2VsSTBZEsU-32" parent="1" style="text;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="Список мер по устранению выявленных узких мест:&#xa;&#xa;1. При миграции с монолита на микросервисную архитектуру можно использовать подход Strangler Fig, выделяя отдельные бизнес-процессы в микросервисы и параллельно с монолитом наблюдать за работой новой системы.&#xa;&#xa;2. Необходимо реализовать мониторинг и алертинг инфраструктуры и приложений, определить точки мониторинга, составить DRP план и подготовить команду поддержки.&#xa;&#xa;3. Business critical сценарии необходимо максимально покрыть тестами и автоматизировать проверки для выявления ошибок на раннем этапе до деплоя на прод окружение.&#xa;&#xa;4. Для хранения данных в БД настроить репликацию, шифрование согласно классификации данных.&#xa;&#xa;5. Регулярно проводить аудит чувствительных данных. Следить за актуальностью маркировок данных и автоматизацией обработки маркируемых данных.&#xa;&#xa;6. Реализовать RBAC и ABAC правила для доступа к данным, руководствоваться принципом минимальных привилегий.&#xa;&#xa;7. Проводить тренинги с командой, особое внимание уделять новым сотрудникам, своевременно проводить онбординг и собирать обратную связь по работе с новой системой.&#xa;&#xa;8. Автоматизировать процесс проверки сертификатов, чтобы своевременно их обновлять." vertex="1">
+          <mxGeometry height="200" width="440" y="640" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
